@@ -4,5 +4,3 @@ git tutorial
 
 - feature-B
 
-- faeture-C
-
