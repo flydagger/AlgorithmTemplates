@@ -4,5 +4,5 @@ git tutorial
 
 - feature-B
 
-- feature-B again
+- faeture-C
 
