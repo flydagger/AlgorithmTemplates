@@ -4,3 +4,5 @@ git tutorial
 
 - feature-B
 
+- feature-C
+
