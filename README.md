@@ -1,10 +1,4 @@
-git tutorial
+Algorithm Templates
 
-- feature-A
-
-- feature-B
-
-- feature-C
-
-- feature-D
-
+List
+    Reverse singly-linked list
